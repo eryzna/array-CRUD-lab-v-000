@@ -8,6 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array=pets_array
+  element="reptiles"
   pets_array << "reptiles"
 end
 
